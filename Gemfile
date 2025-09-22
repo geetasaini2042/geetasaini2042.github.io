@@ -9,6 +9,8 @@ gem "jekyll-feed", "~> 0.17"
 gem "jekyll-seo-tag", "~> 2.8"
 gem "jekyll-sitemap", "~> 1.4"
 gem "base64"
+gem "bigdecimal"
+gem "logger"
 # Sass compiler
 gem "sass", "~> 3.7"
 gem "sass-listen", "~> 4.0"
